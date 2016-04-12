@@ -24,6 +24,13 @@ pan-baidu-download
 *慎用此功能，获取到的链接有可能会因时间过长而失效*
 
 
+### Installation for Mac user
+
+Requests: `$ pip install requests`
+
+arias: `$ brew install aria2`
+
+
 ### 要求
 
 - 百度网盘的分享地址
